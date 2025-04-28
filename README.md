@@ -67,8 +67,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## 📚 Project Structure
 ```plaintext
-├── README.md
 ├── Data Preprocessing and Feature Selection.ipynb
+├── README.md
 ```
 
 ---
